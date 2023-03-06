@@ -1,0 +1,13 @@
+p{
+    font-size: 200%;
+}
+ul{
+    font-size: 200%;
+}
+ol{
+    margin-right: 30%;
+    margin-left: 30%;
+    font-size: 100%;
+    background-color: aqua;
+    background-size: 20;
+}

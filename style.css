@@ -1,0 +1,69 @@
+
+  
+html{
+    background-color: rgb(232, 243, 243);
+    font-style: initial;
+    
+    
+   
+}
+html{
+    background-size: contain;
+   
+}
+
+body{
+    font-size: 100%;
+}
+
+
+
+
+
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: 10;
+    
+
+}
+html title{
+    padding-left: 40;
+
+    padding-right: 40;
+    background-color: rgb(42, 165, 67);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+body h1{
+    background-color: forestgreen;
+    outline-color: rgb(59, 195, 195);
+    font-size: larger;
+    font-style: oblique;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+body h2{
+    padding-left: 60%;
+}
+body image{
+    
+}
+ul{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    background-color: blanchedalmond;
+    padding-left: 0%;
+    margin-left: 10%;
+    margin-right: 42%;
+}
